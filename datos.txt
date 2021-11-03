@@ -1,1 +1,3 @@
 FItxer cognom_nom que el copiarem a github
+
+Afegeixo linia desde el repositori local
